@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b8d261cd-ad5d-4171-9173-1b131a2fc02e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XrvDkHmKEc1W79C88uOmFNQ2dx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$/lib" />
+    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive - Waterford Institute of Technology/DataStructuresAssignment/SecondAssignment" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\2012j\OneDrive - Waterford Institute of Technology\Year 2\Semester 2\Programming Fundamentals 2\jackpower\.idea\lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\2012j\OneDrive - Waterford Institute of Technology\Year 2\Semester 2\Programming Fundamentals 2\jackpower\.idea\lib" />
+      <recent name="C:\Users\2012j\OneDrive - Waterford Institute of Technology\Year 2\Semester 2\Programming Fundamentals 2\jackpower\.idea" />
+      <recent name="C:\Users\2012j\OneDrive - Waterford Institute of Technology\Year 2\Semester 2\Programming Fundamentals 2\jackpower\lib" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="EUDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EUDriver" />
+      <module name="jackpower" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EUDriver" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8d261cd-ad5d-4171-9173-1b131a2fc02e" name="Default Changelist" comment="" />
+      <created>1581816910866</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581816910866</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1760" y="471" key="com.intellij.ide.util.TipDialog" timestamp="1616513549083">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1760" y="471" key="com.intellij.ide.util.TipDialog/351.1440.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1616513549083" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="meps" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/jackpower$EUDriver.ic" NAME="EUDriver Coverage Results" MODIFIED="1581874719806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
